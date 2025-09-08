@@ -39,38 +39,33 @@ Repository contents
 Preprocessing scripts
 
 	•	Splitting and masking – split_ctrl_dant.sh
-	•	Discards first 2 volumes, splits the original time series into even (CTRL) and odd (MT-prepared) images in anatomical runs, and creates a motion–correction mask.
-	•	Uses AFNI functions.
+		Discards first 2 volumes, splits the original time series into even (CTRL) and odd (MT-prepared) images in anatomical runs, and creates a motion–correction mask.
 	•	Motion correction – mc_run.m
-	•	Reads all functional and anatomical runs, replaces inputs in mc_job.m with the corresponding NIfTI filenames, and executes motion correction.
-	•	Runs in MATLAB and depends on SPM12 and the REST toolbox (http://restfmri.net/forum/).
+		Reads all functional and anatomical runs, replaces inputs in mc_job.m with the corresponding NIfTI filenames, and executes motion correction.
 	•	Motion censoring – motion_censor.sh
-	•	Censors time points if:
-	•	The Euclidean norm of motion derivatives > 0.4 mm, or
-	•	≥20% of voxels are identified as outliers from the trend.
-	•	Implements AFNI commands in bash.
+		Censors time points if: The Euclidean norm of motion derivatives > 0.4 mm, or ≥20% of voxels are identified as outliers from the trend.
 	•	MT-weighted anatomy averaging – mtepi.sh
-	•	Computes mean MT-weighted anatomical images.
+		Computes mean MT-weighted anatomical images.
 	•	Cortical surface reconstruction – reconall_mtepi.sh
-	•	Runs FreeSurfer’s recon-all for brain segmentation and cortical surface reconstruction.
+		Runs FreeSurfer’s recon-all for brain segmentation and cortical surface reconstruction.
 	•	Cortical layering – layer_MT.sh
-	•	Generates cortical layers based on LAYNII.
+		Generates cortical layers based on LAYNII.
 
 ⸻
 
 Analysis and figure generation
 
 	•	Behavioral analysis – behavior_AR_RT.ipynb
-	•	Produces Fig. S1
+		Produces Fig. S1
 	•	Stake effect analysis – stake_fig1.ipynb
-	•	Produces Fig. 2
+		Produces Fig. 2
 	•	Stake difference analysis – stakedif_figS3.ipynb
-	•	Produces Fig. S3
+		Produces Fig. S3
 	•	Reaction time (RT) analysis – RT_fig3.ipynb
-	•	Produces Fig. 3
+		Produces Fig. 3
 	•	Outcome-related effects – gainloss_fig4.ipynb
-	•	Produces Fig. 4
+		Produces Fig. 4
 	•	Laminar effects – layerProfile_fig5.ipynb
-	•	Produces Fig. 5
+		Produces Fig. 5
   	•	Control analysis – roiProfile_control_v1.ipynb
-	•	Produces Fig. S4
+		Produces Fig. S4
