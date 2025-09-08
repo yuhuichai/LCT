@@ -4,26 +4,13 @@ This repository contains code used in the article:
 The analyses rely on publicly available neuroimaging software packages, including AFNI, SPM12, ANTs, FreeSurfer, and LAYNII.
 
 ⸻
-
-Authors
-
-Yuhui Chai¹, Joshua Goh², Bradley P. Sutton¹
-1.	Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana–Champaign, Urbana, IL, USA
-2.	Graduate Institute of Brain and Mind Sciences, National Taiwan University College of Medicine, Taipei, Taiwan
-
-* Yuhui Chai and Joshua Goh contributed equally and are co–first authors.
-
-⸻
-
 Correspondence
-	•	Yuhui Chai
-Beckman Institute for Advanced Science and Technology
-University of Illinois at Urbana–Champaign
+•	Yuhui Chai
+Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana–Champaign
 405 N. Mathews Avenue, Urbana, IL 61801, USA
 Email: yuhui@illinois.edu
-	•	Joshua Goh
-Graduate Institute of Brain and Mind Sciences
-National Taiwan University College of Medicine
+•	Joshua Goh
+Graduate Institute of Brain and Mind Sciences, National Taiwan University College of Medicine
 No. 1, Sec. 4, Roosevelt Rd., Taipei 106319, Taiwan
 Email: joshuagoh@ntu.edu.tw
 
