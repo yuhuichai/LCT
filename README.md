@@ -32,14 +32,17 @@ Preprocessing scripts
 
 	•	Splitting and masking – split_ctrl_dant.sh
 		Discards first 2 volumes in functional runs,
-  		splits the original time series into even (CTRL) and odd (MT-prepared) images in anatomical runsC
+  		splits the original time series into even (CTRL) and odd (MT-prepared) images 
+		in anatomical runsC
 		Creates a motion–correction mask.
 	•	Motion correction – mc_run.m
 		Reads all functional and anatomical runs, 
   		replaces inputs in mc_job.m with the corresponding NIfTI filenames,
 		and executes motion correction.
 	•	Motion censoring – motion_censor.sh
-		Censors time points if: The Euclidean norm of motion derivatives > 0.4 mm, or ≥20% of voxels are identified as outliers from the trend.
+		Censors time points if: 
+  		The Euclidean norm of motion derivatives > 0.4 mm, 
+		or ≥20% of voxels are identified as outliers from the trend.
 	•	MT-weighted anatomy averaging – mtepi.sh
 		Computes mean MT-weighted anatomical images.
 	•	Cortical surface reconstruction – reconall_mtepi.sh
