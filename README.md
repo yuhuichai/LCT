@@ -8,11 +8,13 @@ The analyses rely on publicly available neuroimaging software packages, includin
 Correspondence
 
 •	Yuhui Chai
+
 Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana–Champaign
 405 N. Mathews Avenue, Urbana, IL 61801, USA
 Email: yuhui@illinois.edu
 
 •	Joshua Goh
+
 Graduate Institute of Brain and Mind Sciences, National Taiwan University College of Medicine
 No. 1, Sec. 4, Roosevelt Rd., Taipei 106319, Taiwan
 Email: joshuagoh@ntu.edu.tw
