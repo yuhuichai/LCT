@@ -30,12 +30,14 @@ Email: joshuagoh@ntu.edu.tw
 ⸻
 
 Repository contents
+
 	•	Task design code and files: LCT_task/
 	•	Scan protocol: LCT_protocol_share.pdf
 
 ⸻
 
 Preprocessing scripts
+
 	•	Splitting and masking – split_ctrl_dant.sh
 	•	Discards first 2 volumes, splits the original time series into even (CTRL) and odd (MT-prepared) images in anatomical runs, and creates a motion–correction mask.
 	•	Uses AFNI functions.
@@ -57,6 +59,7 @@ Preprocessing scripts
 ⸻
 
 Analysis and figure generation
+
 	•	Behavioral analysis – behavior_AR_RT.ipynb
 	•	Produces Fig. S1
 	•	Stake effect analysis – stake_fig1.ipynb
@@ -69,5 +72,5 @@ Analysis and figure generation
 	•	Produces Fig. 4
 	•	Laminar effects – layerProfile_fig5.ipynb
 	•	Produces Fig. 5
-  •	Control analysis – roiProfile_control_v1.ipynb
+  	•	Control analysis – roiProfile_control_v1.ipynb
 	•	Produces Fig. S4
