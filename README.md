@@ -7,7 +7,7 @@ The analyses rely on publicly available neuroimaging software packages, includin
 
 Authors
 
-Yuhui Chai¹, Joshua Goh², Bradley P. Sutton¹**
+Yuhui Chai¹, Joshua Goh², Bradley P. Sutton¹
 	1.	Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana–Champaign, Urbana, IL, USA
 	2.	Graduate Institute of Brain and Mind Sciences, National Taiwan University College of Medicine, Taipei, Taiwan
 
