@@ -46,13 +46,13 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
     - ≥20% of voxels are identified as outliers from the trend  
 
 - **MT-weighted anatomy averaging — `mtepi.sh`**  
-  - Computes mean MT-weighted anatomical images  
+  - Computes mean MT-weighted EPI images as antomical reference in native fMRI space  
 
 - **Cortical surface reconstruction — `reconall_mtepi.sh`**  
-  - Runs FreeSurfer’s `recon-all` for brain segmentation and cortical surface reconstruction  
+  - Runs brain segmentation and cortical surface reconstruction based on MT-weighted EPI images using FreeSurfer programs  
 
 - **Cortical layering — `layer_MT.sh`**  
-  - Generates cortical layers based on LAYNII  
+  - Generates cortical layers based on the output from surface reconstruction using LAYNII programs
 
 ---
 
