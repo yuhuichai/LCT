@@ -61,7 +61,7 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
 - **Behavioral analysis — `behavior_AR_RT.ipynb`**  
   Produces **Fig. S1**  
 
-- **Stake effect analysis — `stake_fig1.ipynb`**  
+- **Stake effect analysis — `stake_fig2.ipynb`**  
   Produces **Fig. 2**  
 
 - **Stake difference analysis — `stakedif_figS3.ipynb`**  
