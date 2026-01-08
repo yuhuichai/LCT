@@ -49,7 +49,10 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
   - Computes mean MT-weighted EPI images as antomical reference in native fMRI space  
 
 - **Cortical surface reconstruction — `reconall_mtepi.sh`**  
-  - Runs brain segmentation and cortical surface reconstruction based on MT-weighted EPI images using FreeSurfer programs  
+  - Runs brain segmentation and cortical surface reconstruction based on MT-weighted EPI images using FreeSurfer programs
+ 
+- **Atlas to individual ROI — `align_surf_ba.sh`**  
+  - Convert atlas-based parcellations to individual-specific ROI in native fMRI space 
 
 - **Cortical layering — `layer_MT.sh`**  
   - Generates cortical layers based on the output from surface reconstruction using LAYNII programs
