@@ -65,7 +65,9 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
   Produces **Fig. S1**  
 
 - **Stake effect analysis — `stake_fig2.ipynb`**  
-  Produces **Fig. 2**  
+  To reproduce **Fig. 2**, load the source data file  
+  `SourceData_Fig2A_stakes.xlsx` (available with the published article as Source Data)  
+  and run `fig2_data_plot.ipynb`. 
 
 - **Stake difference analysis — `stakedif_figS3.ipynb`**  
   Produces **Fig. S3**  
