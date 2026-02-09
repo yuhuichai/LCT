@@ -66,14 +66,16 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
 
 - **Stake effect analysis — `stake_fig2.ipynb`**  
   To reproduce **Fig. 2**, load the source data file  
-  `SourceData_Fig2A_stakes.xlsx` (available with the published article as Source Data)  
+  `SourceData_Fig2_stakes.xlsx` (available with the published article as Source Data)  
   and run `fig2_data_plot.ipynb`. 
 
 - **Stake difference analysis — `stakedif_figS3.ipynb`**  
   Produces **Fig. S3**  
 
 - **Reaction time (RT) analysis — `RT_fig3.ipynb`**  
-  Produces **Fig. 3**  
+  To reproduce **Fig. 3**, load the source data file  
+  `SourceData_Fig3_SH_RT.xlsx` (available with the published article as Source Data)  
+  and run `fig2_data_plot.ipynb`.  
 
 - **Outcome-related effects — `gainloss_fig4.ipynb`**  
   Produces **Fig. 4**  
