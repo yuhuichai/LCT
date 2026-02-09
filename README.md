@@ -75,10 +75,12 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
 - **Reaction time (RT) analysis — `RT_fig3.ipynb`**  
   To reproduce **Fig. 3**, load the source data file  
   `SourceData_Fig3_SH_RT.xlsx` (available with the published article as Source Data)  
-  and run `fig2_data_plot.ipynb`.  
+  and run `fig3_data_plot.ipynb`.  
 
 - **Outcome-related effects — `gainloss_fig4.ipynb`**  
-  Produces **Fig. 4**  
+  To reproduce **Fig. 4**, load the source data file  
+  `SourceData_Fig4_SH_GainLoss.xlsx` (available with the published article as Source Data)  
+  and run `fig4_data_plot.ipynb`. 
 
 - **Laminar effects — `layerProfile_fig5.ipynb`**  
   Produces **Fig. 5**  
