@@ -72,7 +72,7 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
 - **Stake difference analysis — `stakedif_figS3.ipynb`**  
   Produces **Fig. S3**  
 
-- **Reaction time (RT) analysis — `RT_fig3.ipynb`**  
+- **Reaction time (RT) effect — `RT_fig3.ipynb`**  
   To reproduce **Fig. 3**, load the source data file  
   `SourceData_Fig3_SH_RT.xlsx` (available with the published article as Source Data)  
   and run `fig3_data_plot.ipynb`.  
@@ -80,10 +80,15 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
 - **Outcome-related effects — `gainloss_fig4.ipynb`**  
   To reproduce **Fig. 4**, load the source data file  
   `SourceData_Fig4_SH_GainLoss.xlsx` (available with the published article as Source Data)  
-  and run `fig4_data_plot.ipynb`. 
+  and run `fig4_data_plot.ipynb`.
 
-- **Laminar effects — `layerProfile_fig5.ipynb`**  
-  Produces **Fig. 5**  
+- **Decision commitment: accept vs. reject — `AR_SH_fig5.ipynb`**  
+  To reproduce **Fig. 5**, load the source data file  
+  `SourceData_Fig5_SH_AcceptReject.xlsx` (available with the published article as Source Data)  
+  and run `fig5_data_plot.ipynb`. 
+
+- **Laminar effects — `layerProfile_fig6.ipynb`**  
+  Produces **Fig. 6**  
 
 - **Control analysis — `roiProfile_control_v1.ipynb`**  
   Produces **Fig. S4**  
