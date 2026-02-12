@@ -61,8 +61,7 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
 
 ## Analysis and figure generation
 
-- **Behavioral analysis — `behavior_AR_RT.ipynb`**  
-  Produces **Fig. S1**  
+- **Behavioral analysis — `behavior_AR_RT.ipynb`**    
 
 - **Stake effect analysis — `stake_fig2.ipynb`**  
   To reproduce **Fig. 2**, load the source data file  
@@ -70,7 +69,6 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
   and run `fig2_data_plot.ipynb`. 
 
 - **Stake difference analysis — `stakedif_figS3.ipynb`**  
-  Produces **Fig. S3**  
 
 - **Reaction time (RT) effect — `RT_fig3.ipynb`**  
   To reproduce **Fig. 3**, load the source data file  
@@ -87,8 +85,6 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
   `SourceData_Fig5_SH_AcceptReject.xlsx` (available with the published article as Source Data)  
   and run `fig5_data_plot.ipynb`. 
 
-- **Laminar effects — `layerProfile_fig6.ipynb`**  
-  Produces **Fig. 6**  
+- **Laminar effects — `layerProfile_choice_outcome.ipynb`**  
 
 - **Control analysis — `roiProfile_control_v1.ipynb`**  
-  Produces **Fig. S4**  
