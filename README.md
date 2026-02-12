@@ -82,7 +82,7 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
   `SourceData_Fig4_SH_GainLoss.xlsx` 
   and run `fig4_data_plot.ipynb`.
 
-- **Decision commitment: accept vs. reject — `AR_SH_fig5.ipynb`**  
+- **Choice selection: accept vs. reject — `AR_SH_fig5.ipynb`**  
   To reproduce **Fig. 5**, load the source data file  
   `SourceData_Fig5_SH_AcceptReject.xlsx`
   and run `fig5_data_plot.ipynb`. 
