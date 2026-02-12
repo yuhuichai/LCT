@@ -61,30 +61,35 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
 
 ## Analysis and figure generation
 
+  Source Data is available with the published article 
+
 - **Behavioral analysis — `behavior_AR_RT.ipynb`**    
 
 - **Stake effect analysis — `stake_fig2.ipynb`**  
   To reproduce **Fig. 2**, load the source data file  
-  `SourceData_Fig2_stakes.xlsx` (available with the published article as Source Data)  
+  `SourceData_Fig2_stakes.xlsx`  
   and run `fig2_data_plot.ipynb`. 
 
 - **Stake difference analysis — `stakedif_figS3.ipynb`**  
 
 - **Reaction time (RT) effect — `RT_fig3.ipynb`**  
   To reproduce **Fig. 3**, load the source data file  
-  `SourceData_Fig3_SH_RT.xlsx` (available with the published article as Source Data)  
+  `SourceData_Fig3_SH_RT.xlsx` 
   and run `fig3_data_plot.ipynb`.  
 
 - **Outcome-related effects — `gainloss_fig4.ipynb`**  
   To reproduce **Fig. 4**, load the source data file  
-  `SourceData_Fig4_SH_GainLoss.xlsx` (available with the published article as Source Data)  
+  `SourceData_Fig4_SH_GainLoss.xlsx` 
   and run `fig4_data_plot.ipynb`.
 
 - **Decision commitment: accept vs. reject — `AR_SH_fig5.ipynb`**  
   To reproduce **Fig. 5**, load the source data file  
-  `SourceData_Fig5_SH_AcceptReject.xlsx` (available with the published article as Source Data)  
+  `SourceData_Fig5_SH_AcceptReject.xlsx`
   and run `fig5_data_plot.ipynb`. 
 
 - **Laminar effects — `layerProfile_choice_outcome.ipynb`**  
-
+  To reproduce **Fig. 6**, load the source data file  
+  `SourceData_Fig6_vPFC_laminar.xlsx` or `SourceData_Fig6_dlPFC_laminar.xlsx`
+  and run `fig6_data_plot.ipynb`.
+  
 - **Control analysis — `roiProfile_control_v1.ipynb`**  
