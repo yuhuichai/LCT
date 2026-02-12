@@ -87,9 +87,14 @@ Email: [joshuagoh@ntu.edu.tw](mailto:joshuagoh@ntu.edu.tw)
   `SourceData_Fig5_SH_AcceptReject.xlsx`
   and run `fig5_data_plot.ipynb`. 
 
-- **Laminar effects — `layerProfile_choice_outcome.ipynb`**  
+- **Laminar choice vs. outcome — `layerProfile_choice_outcome.ipynb`**  
   To reproduce **Fig. 6**, load the source data file  
   `SourceData_Fig6_vPFC_laminar.xlsx` or `SourceData_Fig6_dlPFC_laminar.xlsx`
   and run `fig6_data_plot.ipynb`.
+
+- **Laminar gain vs. loss — `layerProfile_gainloss.ipynb`**  
+  To reproduce **Fig. 7 gainloss**, load the source data file  
+  `SourceData_Fig7_vPFC_gainloss_laminar.xlsx` or `SourceData_Fig7_dlPFC_gainloss_laminar.xlsx`
+  and run `fig7_gainloss_data_plot.ipynb`.
   
 - **Control analysis — `roiProfile_control_v1.ipynb`**  
