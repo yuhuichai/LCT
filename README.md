@@ -1,4 +1,4 @@
-# Resolving Mesoscale Brainstem–Prefrontal–Striatal Pathways Underlying Decision Making Using Submillimeter-Resolution fMRI at 7T
+# Resolving Mesoscale Brainstem–Prefrontal–Striatal Pathways Underlying Decisions Upon Salient Events Using Submillimeter-resolution fMRI
 
 This repository contains code used in the article:  
 **“Resolving mesoscale brainstem–prefrontal–striatal pathways underlying decision making using submillimeter-resolution functional MRI at 7T.”**
